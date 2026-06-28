@@ -1,0 +1,23 @@
+# Data and model artifacts
+**/dataset/
+**/Data/
+**/raw/
+**/*.pth
+**/*.pt
+**/*.csv
+**/*.zip
+
+# Jupyter and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.log
+
+# Environment files
+.venv/
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
